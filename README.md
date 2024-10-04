@@ -13,7 +13,10 @@ This repository contains a set of scripts for camera calibration and real-time r
 
 - **test_contour_tracking.py**: A script for detecting and tracking contours in an image using camera calibration data.
 
+- **get_image_corners.py**: This script is used to capture and map the real-world coordinates of four corners of an image displayed in a camera feed. The user manually moves a robot to these corners while in "free drive" mode, and the script records the corresponding real-world coordinates. The coordinates are saved to a JSON file for future use in tasks requiring spatial calibration.
+
 - **robot_contour_tracking.py**: The core script for real-time contour tracking with a UR robot. It captures images, detects contours, converts them into real-world coordinates, and sends movement commands to the robot.
+
 
 ## Publication
 
