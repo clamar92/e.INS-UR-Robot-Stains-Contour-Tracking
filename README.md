@@ -18,6 +18,7 @@ This repository contains a set of scripts for camera calibration and real-time r
 ## Publication
 
 The initial details of this project were presented in the paper:
+
 Busia, P., Marche, C., Meloni, P., & Reforgiato Recupero, D. (2024, June). **Design of an AI-driven Architecture with Cobots for Digital Transformation to Enhance Quality Control in the Food Industry**. In *Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization* (pp. 424-428).
 
 ## License
